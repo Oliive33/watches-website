@@ -966,7 +966,7 @@ body.dark-theme {
   right: 0;
 }
 
-/*=============== BREAKPOINTS ===============*/
+/*=============== Responsive style ===============*/
 /* For small devices */
 @media screen and (max-width: 320px) {
   .container {
